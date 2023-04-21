@@ -24,8 +24,6 @@
 <h2>Contributing</h2>
 <p>If you'd like to contribute to this repository, feel free to fork the project and submit a pull request. We welcome any and all contributions!</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the LICENSE.md file for details.</p>
 </body>
 </html>
 
